@@ -1,0 +1,7 @@
+homework 101:
+
+hi there, i am trying to test out a malicious file detection tool - this is definetly not a malicious file 
+(i promise)
+
+By Yours truly,
+y9y9.
